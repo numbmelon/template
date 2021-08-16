@@ -32,9 +32,9 @@
 *.app
 
 #latex
-.log
-.aux
-.synctex.gz
+*.log
+*.aux
+*.synctex.gz
 
 #editor
 .vscode
